@@ -1,0 +1,29 @@
+[
+    {
+    "categoria": "Español",
+    "pregunta": "Cual de estos es un carro?",
+    "respuesta": "https://img.freepik.com/vector-gratis/etiqueta-engomada-historieta-coche-clasico-sobre-fondo-blanco_1308-76872.jpg?w=2000",
+    "incorrecta1": "https://img2.freepng.es/20180604/scr/kisspng-house-drawing-cartoon-house-garden-5b1533ba96a984.5856949915281161546171.jpg",
+    "incorrecta2": "https://cdn.pixabay.com/photo/2014/04/03/09/59/motorcycle-309527_960_720.png",
+    "incorrecta3": "https://www.nicepng.com/png/detail/915-9153724_aviones-animados-png-imagui-monoplane.png",
+    "imagen": "https://educativo.insor.gov.co/wp-content/uploads/2021/08/Carro_T.png",
+    "objectFit": "content"
+    },
+    {"categoria": "Matematicas",
+    "pregunta": "Cuanto es 2 + 2 ?",
+    "respuesta": "4",
+    "incorrecta1": "1",
+    "incorrecta2": "2",
+    "incorrecta3": "3",
+    "objectFit": "content"
+    },
+    {"categoria": "Educacion Fisica",
+    "pregunta": "Cual de estos es un balon?",
+    "respuesta": "https://i.pinimg.com/originals/91/72/6d/91726d278c91d8362f5f06a5d1bec053.jpg",
+    "incorrecta1": "1",
+    "incorrecta2": "2",
+    "incorrecta3": "3",
+    "imagen": "https://educativo.insor.gov.co/wp-content/uploads/2021/02/balon-T.jpg",
+    "objectFit": "content"
+    }
+]  
