@@ -230,111 +230,43 @@
     "objectFit": "content"  
     },
     {
-
+    "categoria": "Español",
+    "pregunta": "Cual es la manera correcta de escribir...",
+    "respuesta": "Colores",
+    "incorrecta1": "Kolores",
+    "incorrecta2": "Collores",
+    "incorrecta3": "Kollores",
+    "video": "https://www.youtube.com/embed/-DaA-SgnQfc",
+    "objectFit": "content" 
     },
     {
-
+    "categoria": "Matematicas",
+    "pregunta": "¿ Cuanto es 20 + 12 ?",
+    "respuesta": "32",
+    "incorrecta1": "8",
+    "incorrecta2": "12",
+    "incorrecta3": "22",
+    "video": "",
+    "objectFit": "content"
     },
     {
-
+    "categoria": "Matematicas",
+    "pregunta": "¿ Cuanto es 50 + 50 ?",
+    "respuesta": "100",
+    "incorrecta1": "25",
+    "incorrecta2": "500",
+    "incorrecta3": "50",
+    "video": "",
+    "objectFit": "content"
     },
     {
-
-    },
-    {
-
-    },
-    {
-
-    },
-    {
-
-    },
-    {
-
-    },
-    {
-
-    },
-    {
-
-    },
-    {
-
-    },
-    {
-
-    },
-    {
-
-    },
-    {
-
-    },
-    {
-
-    },
-    {
-
-    },
-    {
-
-    },
-    {
-
-    },
-    {
-
-    },
-    {
-
-    },
-    {
-
-    },
-    {
-
-    },
-    {
-
-    },
-    {
-
-    },
-    {
-
-    },
-    {
-
-    },
-    {
-
-    },
-    {
-
-    },
-    {
-
-    },
-    {
-
-    },
-    {
-
-    },
-    {
-
-    },
-    {
-
-    },
-    {
-
-    },
-    {
-
-    },
-    {
-
+    "categoria": "Matematicas",
+    "pregunta": "¿ Cuanto es 8 - 2 ?",
+    "respuesta": "6",
+    "incorrecta1": "10",
+    "incorrecta2": "82",
+    "incorrecta3": "14",
+    "video": "",
+    "objectFit": "content"
     }
 ]
