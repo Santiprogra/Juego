@@ -1,29 +1,340 @@
 [
     {
     "categoria": "Español",
-    "pregunta": "Cual de estos es un carro?",
-    "respuesta": "https://img.freepik.com/vector-gratis/etiqueta-engomada-historieta-coche-clasico-sobre-fondo-blanco_1308-76872.jpg?w=2000",
-    "incorrecta1": "https://img2.freepng.es/20180604/scr/kisspng-house-drawing-cartoon-house-garden-5b1533ba96a984.5856949915281161546171.jpg",
-    "incorrecta2": "https://cdn.pixabay.com/photo/2014/04/03/09/59/motorcycle-309527_960_720.png",
-    "incorrecta3": "https://www.nicepng.com/png/detail/915-9153724_aviones-animados-png-imagui-monoplane.png",
-    "imagen": "https://educativo.insor.gov.co/wp-content/uploads/2021/08/Carro_T.png",
+    "pregunta": "Cual es la manera correcta de escribir...",
+    "respuesta": "Balon",
+    "incorrecta1": "Balun",
+    "incorrecta2": "Valon",
+    "incorrecta3": "Balom",
+    "video": "https://www.youtube.com/embed/SaUldrEC0bk",
     "objectFit": "content"
     },
-    {"categoria": "Matematicas",
-    "pregunta": "Cuanto es 2 + 2 ?",
+    {
+    "categoria": "Español",
+    "pregunta": "Cual es la manera correcta de escribir...",
+    "respuesta": "Moto",
+    "incorrecta1": "Noto",
+    "incorrecta2": "Muto",
+    "incorrecta3": "Motu",
+    "video": "https://www.youtube.com/embed/QvRSRiemD1I",
+    "objectFit": "content"
+    },
+    {
+    "categoria": "Español",
+    "pregunta": "Cual es la manera correcta de escribir...",
+    "respuesta": "Casa",
+    "incorrecta1": "Caza",
+    "incorrecta2": "Kasa",
+    "incorrecta3": "Kaza",
+    "video": "https://www.youtube.com/embed/q93sWZDnEhs",
+    "objectFit": "content"
+    },
+    {
+    "categoria": "Español",
+    "pregunta": "Cual es la manera correcta de escribir...",
+    "respuesta": "Conciencia",
+    "incorrecta1": "Konciencia",
+    "incorrecta2": "Consiensia",
+    "incorrecta3": "Konsiensia",
+    "video": "https://www.youtube.com/embed/uWkFoYLlCOc",
+    "objectFit": "content"
+    },
+    {
+    "categoria": "Español",
+    "pregunta": "Cual es la manera correcta de escribir...",
+    "respuesta": "Concha",
+    "incorrecta1": "koncha",
+    "incorrecta2": "Consa",
+    "incorrecta3": "Conya",
+    "video": "https://www.youtube.com/embed/sQylYMWPsCg",
+    "objectFit": "content"
+    },
+    {
+    "categoria": "Español",
+    "pregunta": "Cual es la manera correcta de escribir...",
+    "respuesta": "Comunidad",
+    "incorrecta1": "Komunidad",
+    "incorrecta2": "Comunibad",
+    "incorrecta3": "Comunibad",
+    "video": "https://www.youtube.com/embed/pXX9-znMrYY",
+    "objectFit": "content"
+    },
+    {
+    "categoria": "Español",
+    "pregunta": "Cual es la manera correcta de escribir...",
+    "respuesta": "Comunicativa",
+    "incorrecta1": "Komunicativa",
+    "incorrecta2": "Comumicativa",
+    "incorrecta3": "Comunicatiba",
+    "video": "https://www.youtube.com/embed/iF_aWa8qFtk",
+    "objectFit": "content"
+    },
+    {
+    "categoria": "Español",
+    "pregunta": "Cual es la manera correcta de escribir...",
+    "respuesta": "Computador",
+    "incorrecta1": "Komputador",
+    "incorrecta2": "Conputador",
+    "incorrecta3": "Computabor",
+    "video": "https://www.youtube.com/embed/rIS61T3QFH0",
+    "objectFit": "content"
+    },
+    {
+    "categoria": "Español",
+    "pregunta": "Cual es la manera correcta de escribir...",
+    "respuesta": "Compromiso",
+    "incorrecta1": "Kompromiso",
+    "incorrecta2": "Conproniso",
+    "incorrecta3": "Komproniso",
+    "video": "https://www.youtube.com/embed/SpUQlxtOKDs",
+    "objectFit": "content"
+    },
+    {
+    "categoria": "Español",
+    "pregunta": "Cual es la manera correcta de escribir...",
+    "respuesta": "Comprar",
+    "incorrecta1": "Komprar",
+    "incorrecta2": "Conprar",
+    "incorrecta3": "Compar",
+    "video": "https://www.youtube.com/embed/j4WaIyn45EI",
+    "objectFit": "content"
+    },
+    {
+    "categoria": "Español",
+    "pregunta": "Cual es la manera correcta de escribir...",
+    "respuesta": "Competir",
+    "incorrecta1": "Kompetir",
+    "incorrecta2": "Conpetir",
+    "incorrecta3": "Konpetir",
+    "video": "https://www.youtube.com/embed/oixEr8DJj-E",
+    "objectFit": "content"
+    },
+    {
+    "categoria": "Español",
+    "pregunta": "Cual es la manera correcta de escribir...",
+    "respuesta": "Compasion",
+    "incorrecta1": "konpasion",
+    "incorrecta2": "Conpacion",
+    "incorrecta3": "kompacion",
+    "video": "https://www.youtube.com/embed/-RFJR8-Zu14",
+    "objectFit": "content"
+    },
+    {
+    "categoria": "Español",
+    "pregunta": "Cual es la manera correcta de escribir...",
+    "respuesta": "Compas",
+    "incorrecta1": "Kompas",
+    "incorrecta2": "Konpas",
+    "incorrecta3": "Conpaz",
+    "video": "https://www.youtube.com/embed/OEhium9bhHQ",
+    "objectFit": "content"
+    },
+    {
+    "categoria": "Español",
+    "pregunta": "Cual es la manera correcta de escribir...",
+    "respuesta": "Comparar",
+    "incorrecta1": "Komparar",
+    "incorrecta2": "Conparar",
+    "incorrecta3": "Konparar",
+    "video": "https://www.youtube.com/embed/yL54tPgu_nY",
+    "objectFit": "content"
+    },
+    {
+    "categoria": "Español",
+    "pregunta": "Cual es la manera correcta de escribir...",
+    "respuesta": "Comercio",
+    "incorrecta1": "Conercio",
+    "incorrecta2": "Comersio",
+    "incorrecta3": "Komersio",
+    "video": "https://www.youtube.com/embed/rjOOH8afS6s",
+    "objectFit": "content"
+    },
+    {
+    "categoria": "Matematicas",
+    "pregunta": "¿Cuanto es 2 + 2? ",
     "respuesta": "4",
-    "incorrecta1": "1",
-    "incorrecta2": "2",
-    "incorrecta3": "3",
+    "incorrecta1": "44",
+    "incorrecta2": "22",
+    "incorrecta3": "2",
+    "video": "",
     "objectFit": "content"
     },
-    {"categoria": "Educacion Fisica",
-    "pregunta": "Cual de estos es un balon?",
-    "respuesta": "https://i.pinimg.com/originals/91/72/6d/91726d278c91d8362f5f06a5d1bec053.jpg",
-    "incorrecta1": "1",
-    "incorrecta2": "2",
-    "incorrecta3": "3",
-    "imagen": "https://educativo.insor.gov.co/wp-content/uploads/2021/02/balon-T.jpg",
+    {
+    "categoria": "Matematicas",
+    "pregunta": "¿Cuanto es 4 + 6? ",
+    "respuesta": "10",
+    "incorrecta1": "64",
+    "incorrecta2": "46",
+    "incorrecta3": "2",
+    "video": "",
     "objectFit": "content"
+    },
+    {
+    "categoria": "Matematicas",
+    "pregunta": "¿Cuanto es 6 + 6? ",
+    "respuesta": "12",
+    "incorrecta1": "66",
+    "incorrecta2": "10",
+    "incorrecta3": "2",
+    "video": "",
+    "objectFit": "content"
+    },
+    {
+    "categoria": "Matematicas",
+    "pregunta": "¿Cuanto es 50 + 6? ",
+    "respuesta": "56",
+    "incorrecta1": "78",
+    "incorrecta2": "44",
+    "incorrecta3": "57",
+    "video": "",
+    "objectFit": "content"
+    },
+    {
+    "categoria": "Matematicas",
+    "pregunta": "¿Cuanto es 5+5?",
+    "respuesta": "10",
+    "incorrecta1": "55",
+    "incorrecta2": "54",
+    "incorrecta3": "11",
+    "video": "",
+    "objectFit": "content"
+    },
+    {
+    "categoria": "Matematicas",
+    "pregunta": "¿Cuanto es 8 + 5? ",
+    "respuesta": "12",
+    "incorrecta1": "14",
+    "incorrecta2": "15",
+    "incorrecta3": "16",
+    "video": "",
+    "objectFit": "content"
+    },
+    {
+    "categoria": "Matematicas",
+    "pregunta": "¿Cuanto es 7 - 3? ",
+    "respuesta": "4",
+    "incorrecta1": "73",
+    "incorrecta2": "3",
+    "incorrecta3": "2",
+    "video": "",
+    "objectFit": "content"
+    },
+    {
+    "categoria": "Español",
+    "pregunta": "Cual es la manera correcta de escribir...",
+    "respuesta": "Comer",
+    "incorrecta1": "Komer",
+    "incorrecta2": "Coner",
+    "incorrecta3": "Koner",
+    "video": "https://www.youtube.com/embed/AfFyKElgUZw",
+    "objectFit": "content"  
+    },
+    {
+
+    },
+    {
+
+    },
+    {
+
+    },
+    {
+
+    },
+    {
+
+    },
+    {
+
+    },
+    {
+
+    },
+    {
+
+    },
+    {
+
+    },
+    {
+
+    },
+    {
+
+    },
+    {
+
+    },
+    {
+
+    },
+    {
+
+    },
+    {
+
+    },
+    {
+
+    },
+    {
+
+    },
+    {
+
+    },
+    {
+
+    },
+    {
+
+    },
+    {
+
+    },
+    {
+
+    },
+    {
+
+    },
+    {
+
+    },
+    {
+
+    },
+    {
+
+    },
+    {
+
+    },
+    {
+
+    },
+    {
+
+    },
+    {
+
+    },
+    {
+
+    },
+    {
+
+    },
+    {
+
+    },
+    {
+
+    },
+    {
+
+    },
+    {
+
     }
-]  
+]

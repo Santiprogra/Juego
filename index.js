@@ -69,17 +69,17 @@ function escogerPregunta(n) {
     select_id("puntaje").innerHTML = "";
   }
 
-  style("imagen").objectFit = pregunta.objectFit;
+  style("video").objectFit = pregunta.objectFit;
   desordenarRespuestas(pregunta);
-  if (pregunta.imagen) {
-    select_id("imagen").setAttribute("src", pregunta.imagen);
-    style("imagen").height = "200px";
-    style("imagen").width = "100%";
+  if (pregunta.video) {
+    select_id("video").setAttribute("src", pregunta.video);
+    style("video").height = "500px";
+    style("video").width = "100%";
   } else {
-    style("imagen").height = "0px";
-    style("imagen").width = "0px";
+    style("video").height = "0px";
+    style("video").width = "0px";
     setTimeout(() => {
-      select_id("imagen").setAttribute("src", "");
+      select_id("video").setAttribute("src", "");
     }, 500);
   }
 }
@@ -128,7 +128,7 @@ function oprimir_btn(i) {
 
 function reiniciar() {
   for (const btn of btn_correspondiente) {
-    btn.style.background = "white";
+    btn.style.background = "orange";
   }
   escogerPreguntaAleatoria();
 }
