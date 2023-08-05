@@ -149,17 +149,7 @@
     "video": "https://www.youtube.com/embed/rjOOH8afS6s",
     "objectFit": "content"
     },
-    {
-    "categoria": "Matematicas",
-    "pregunta": "¿Cuanto es 2 + 2? ",
-    "respuesta": "4",
-    "incorrecta1": "44",
-    "incorrecta2": "22",
-    "incorrecta3": "2",
-    "video": "",
-    "objectFit": "content"
-    },
-    {
+{
     "categoria": "Matematicas",
     "pregunta": "¿Cuanto es 4 + 6? ",
     "respuesta": "10",
