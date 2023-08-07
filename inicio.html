@@ -1,9 +1,11 @@
+<!-- Codigo en el cual encontramos la pantalla de interacción del usuario-->
 <!DOCTYPE html><html lang="en"><head>
   <meta charset="UTF-8">
   <title>Juego de preguntas</title>
   <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.3.0/dist/sweetalert2.all.min.js"></script>
 </head>
 
+<!-- Estilos el cuál va a tener la plataforma web en la pantalla de interacción del usuario-->
 <body>
   <style>
     * {
@@ -91,6 +93,7 @@
     }
   </style>
 
+  <!-- Información la cual evidencia el usuario, contiene un contenedor y 4 botones, el contenedor cuenta con 1 vídeo, 1 contador, un texto, numero de pregunta y los botones constan de funciones de elección -->
   <div class="contenedor">
     <div class="puntaje" id="puntaje"></div>
     <div class="encabezado">
@@ -107,6 +110,7 @@
       <div class="btn" id="btn3" onclick="oprimir_btn(2)"></div>
       <div class="btn" id="btn4" onclick="oprimir_btn(3)"></div>
     </div>
+  <!-- Se llama a las funciones del programa -->
     <script src="index.js"></script>
   </div>
   
